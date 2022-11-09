@@ -6,4 +6,4 @@
 - [+ 328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 - [+ 2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
 - [+ 237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
-- [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+- [+ 2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)

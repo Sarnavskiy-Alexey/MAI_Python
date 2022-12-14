@@ -1,0 +1,11 @@
+## Лабораторная Работа N3
+- [1893. Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)
+- [1. Two Sum](https://leetcode.com/problems/two-sum/)
+- [15. 3Sum](https://leetcode.com/problems/3sum/)
+- [18. 4Sum](https://leetcode.com/problems/4sum/)
+- [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+- [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
